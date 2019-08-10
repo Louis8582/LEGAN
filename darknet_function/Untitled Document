@@ -1,0 +1,3 @@
+./darknet  detector test truedata/cfg/obj.data truedata/cfg/yolov3.cfg truedata/cfg/weights/yolov3_13000.weights
+ ./darknet  detector train truedata/cfg/obj.data truedata/cfg/yolov3.cfg truedata/darknet53.conv.74
+
